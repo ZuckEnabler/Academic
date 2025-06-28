@@ -79,7 +79,7 @@ By modeling imaginary constructs through persistent predicates, researchers gain
 
 ## Bibliography
 
-**Aleri, T.** (Imagination Year 618). *Ontological Drift in Symbolic Ecosystems: A Formal Approach.* University of Reverent Inquiry Press.
+**Aleri, T.** (IY 618). *Ontological Drift in Symbolic Ecosystems: A Formal Approach.* University of Reverent Inquiry Press.
 
 **Bentholm, R.** (IY 605). *The Stability of Thought-Shapes Under Multimodal Observation.* Archive of Perceptual Topology, Vol. 12(4), pp. 88–111.
 
